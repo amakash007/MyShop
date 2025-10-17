@@ -15,12 +15,12 @@ const Contact = () => {
           alt="Contact Us"
         />
         <div className="flex flex-col justify-center items-between gap-6 text-gray-700">
-          <p className="font-semibold text-xl text-gray-800">OUR STORE</p>
+          {/* <p className="font-semibold text-xl text-gray-800">OUR STORE</p>
           <p className="text-gray-600 leading-relaxed">
             Near Crpf Camp Bijnore Road<br />Lucknow,Uttar Pradesh 226002 India
-          </p>
+          </p> */}
           <p className="text-gray-600 leading-relaxed">
-            <b>Phone:</b> (+91) 63-926-70425 <br /> <b>Email:</b> afzal.mia.dev@gmail.com
+            <b>Phone:</b> (+91) 8378877496 <br /> <b>Email:</b> dhageakash2004@gmail.com
           </p>
           <p className="font-semibold text-xl text-gray-800">JOIN OUR TEAM</p>
           <p className="text-gray-600">
