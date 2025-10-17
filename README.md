@@ -1,4 +1,4 @@
-## Screenshots:
+<!-- ## Screenshots:
 
 ### Homepage:
 ![Home Page](frontend/public/e1.png)
@@ -41,41 +41,7 @@ This is a full-stack e-commerce website built using the MERN (MongoDB, Express, 
 - **Image Hosting**: Cloudinary
 
 
-## Installation:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Afzal-Mia/MyShop.git
-   ```
-
-2. Install dependencies for both frontend and backend:
-
-   - For **backend**:
-     ```bash
-     cd backend
-     npm install
-     ```
-
-   - For **frontend**:
-     ```bash
-     cd frontend
-     npm install
-     ```
-
-3. Create a `.env` file in the backend folder and add the following environment variables:
-
-   ```bash
-   RAZORPAY_KEY_ID=<your_razorpay_key_id>
-   RAZORPAY_KEY_SECRET=<your_razorpay_key_secret>
-   STRIPE_SECRET_KEY=<your_stripe_secret_key>
-   JWT_SECRET=<your_jwt_secret_key>
-   ADMIN_EMAIL=Your_email
-   ADMIN_PASSWORD=Your_password
-   MONGODB_URI=<your_mongodb_connection_uri>
-   CLOUDINARY_NAME=<your_cloudinary_name>
-   CLOUDINARY_API_KEY=<your_cloudinary_api_key>
-   CLOUDINARY_SECRET_KEY=<your_cloudinary_secret_key>
-   ```
 
 4. Start the backend server:
    ```bash
@@ -123,4 +89,4 @@ For any issues or feedback, feel free to reach out to me via email: mohammedafza
 #open_source
 #context_Api
 #payment-gateway
-#razor_Pay
+#razor_Pay -->
