@@ -31,7 +31,7 @@ const Footer = () => {
             <li>dhageakash2004@gmail.com</li>
             <li className="hover:text-blue-400 cursor-pointer">Support Center</li>
             <li className="hover:text-blue-400 cursor-pointer">FAQs</li>
-            <li className="hover:text-blue-400 cursor-pointer">Live Chat</li>
+            <li className="hover:text-blue-400 cursor-pointer">Live Chat.</li>
           </ul>
         </div>
       </div>
