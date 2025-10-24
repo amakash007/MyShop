@@ -22,7 +22,7 @@ const Contact = () => {
           <p className="text-gray-600 leading-relaxed">
             <b>Phone:</b> (+91) 8378877496 <br /> <b>Email:</b> dhageakash2004@gmail.com
           </p>
-          <p className="font-semibold text-xl text-gray-800">JOIN OUR TEAM</p>
+          <p className="font-semibold text-xl text-gray-800">JOIN OUR TEAM.</p>
           <p className="text-gray-600">
             Explore exciting career opportunities and be a part of our growing family.
           </p>
