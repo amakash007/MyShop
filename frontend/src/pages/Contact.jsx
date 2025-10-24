@@ -29,8 +29,6 @@ const Contact = () => {
           <button className="border border-blue-800 bg-blue-700 text-white px-8 py-3 text-sm font-medium transition-all duration-500 rounded-lg shadow-md hover:bg-blue-600 hover:border-blue-600">
   EXPLORE JOBS.
 </button>
-
-
         </div>
       </div>
       <NewsletterBox />
