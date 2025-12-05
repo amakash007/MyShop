@@ -35,7 +35,7 @@ const Footer = () => {
             <li className="hover:text-blue-400 cursor-pointer">Live Chat.</li>
           </ul>
         </div>
-      </div>
+      </div>//
       <div className="mt-10">
         <hr className="w-full border-gray-700" />
         <p className="py-5 text-sm text-center text-gray-400">
