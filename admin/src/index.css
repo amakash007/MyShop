@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+    width: 8px; /* Adjust the width */
+  }
+  
+  /* Scrollbar Track */
+  ::-webkit-scrollbar-track {
+    background: #f3f4f6; /* Light gray track */
+  }
+  
+  /* Scrollbar Thumb (Scroller) */
+  ::-webkit-scrollbar-thumb {
+    background: #3b82f6; /* Primary blue color */
+  }
+    
+
+*{
+    font-family: Outfit;
+}
+
+select, input, textarea{
+    border: 1px solid #c2c2c2;
+    outline-color: #332fb0;
+    border-radius: 4px;
+}
+
+.active{
+    background-color: #2a73da;
+    border-color: #332fb0;
+}
