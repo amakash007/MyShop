@@ -39,7 +39,7 @@ const Footer = () => {
       <div className="mt-10">
         <hr className="w-full border-gray-700" />
         <p className="py-5 text-sm text-center text-gray-400">
-          Copyright 2025 @ MyStore - All Rights Reserved. Your one-stop destination for quality and affordable products.
+          Copyright 2025 @ MyStore - All Rights Reserved. Your one-stop destination for quality and affordable products For user.
         </p>
       </div>
     </div>
